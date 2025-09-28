@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.odd{
+    background-color:lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.adjustfont24{
+    font-size: 24px;
+}
+#ID{
+    color: blue;
+    font-size: 36px;
+}
+#anotherID{
+    background-color: lightgreen;
+    font-weight: bold;
+}
